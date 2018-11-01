@@ -7,7 +7,6 @@
   },
   "license": "MIT",
   "isPrivate": false,
-  "homepage": "https://tp.turbopatent.us/pathub/packages/TurboPatent/Electrophoresis.tp",
   "details": {
     "counts": {
       "termCount": 29,
@@ -16,287 +15,290 @@
       "drawingCount": 6,
       "glossaryCount": 25
     },
-    "drawings": [
+    "briefDescriptions": [
+      "<p>illustrates a <span data-role=\"tag\" data-value=\"d4c64932-3296-ea3b-902a-58c4f70de4ec\" id=\"id4fe1e753-2e80-55e1-aeee-f7f42dee4273\" data-type=\"drawingObject\">CE device 100</span> in accordance with one embodiment.</p>",
+      "<p>illustrates a <span data-role=\"tag\" data-value=\"9ebee363-cb05-9082-d7c5-c4f16f6c1602\" id=\"id1a203de1-404e-8c3b-4b75-d9bcf92422f0\" data-type=\"drawingObject\">CE device 200</span> in accordance with one embodiment.</p>",
+      "<p>illustrates a <span data-role=\"tag\" data-value=\"80a3d5fd-d121-42f0-5a2c-04219a7956cf\" id=\"idbf2ca85e-4135-4763-3b0a-1d4bab453e82\" data-type=\"drawingObject\">CE system 300</span> in accordance with one embodiment.</p>",
+      "<p>illustrates a <span data-role=\"tag\" data-value=\"a70ac5ce-cd73-32aa-5a2b-e1f1e5a5dc68\" id=\"id959c82f5-2043-feea-5dd5-61b605b7fff2\" data-type=\"drawingObject\">CE process 400</span> in accordance with one embodiment.</p>",
+      "<p>illustrates a <span data-role=\"tag\" data-value=\"810c4022-0bdb-057c-f945-65f724ba8ba2\" id=\"ida2cba23e-dbd0-38f1-e5b8-cc6f43d474b1\" data-type=\"drawingObject\">CE process 500</span> in accordance with one embodiment.</p>",
+      "<p>illustrates a <span data-role=\"tag\" data-value=\"8d474cf6-5de2-5fef-ec79-43097fdcedb8\" id=\"id638cc567-513f-f953-2a53-ce8a25bac9d3\" data-type=\"drawingObject\">sequencing data 600</span> in accordance with one embodiment.</p>"
+    ],
+    "parts": [
       {
-        "figure": "Fig. 1",
-        "briefDescription": "<p><b>Fig. 1</b> illustrates a CE device 100 in accordance with one embodiment.</p>",
-        "parts": [
-          {
-            "part": "CE device",
-            "number": 100
-          },
-          {
-            "part": "voltage bias source",
-            "number": 102
-          },
-          {
-            "part": "capillary",
-            "number": 104
-          },
-          {
-            "part": "detector",
-            "number": 106
-          },
-          {
-            "part": "sample injection port",
-            "number": 108
-          },
-          {
-            "part": "heater",
-            "number": 110
-          },
-          {
-            "part": "separation media",
-            "number": 112
-          },
-          {
-            "part": "body",
-            "number": 114
-          }
-        ]
+        "name": "CE device",
+        "number": 100
       },
       {
-        "figure": "Fig. 2",
-        "briefDescription": "<p><b>Fig. 2</b> illustrates a CE device 200 in accordance with one embodiment.</p>",
-        "parts": [
-          {
-            "part": "CE device",
-            "number": 200
-          },
-          {
-            "part": "voltage bias source",
-            "number": 202
-          },
-          {
-            "part": "capillary",
-            "number": 204
-          },
-          {
-            "part": "detector",
-            "number": 206
-          },
-          {
-            "part": "sample injection port",
-            "number": 208
-          },
-          {
-            "part": "heater",
-            "number": 210
-          },
-          {
-            "part": "separation media",
-            "number": 212
-          },
-          {
-            "part": "body",
-            "number": 214
-          },
-          {
-            "part": "instrument",
-            "number": 216
-          }
-        ]
+        "name": "voltage bias source",
+        "number": 102
       },
       {
-        "figure": "Fig. 3",
-        "briefDescription": "<p><b>Fig. 3</b> illustrates a CE system 300 in accordance with one embodiment.</p>",
-        "parts": [
-          {
-            "part": "CE system",
-            "number": 300
-          },
-          {
-            "part": "computing device",
-            "number": 302
-          },
-          {
-            "part": "basecaller algorithm",
-            "number": 304
-          },
-          {
-            "part": "memory",
-            "number": 306
-          },
-          {
-            "part": "processor",
-            "number": 308
-          },
-          {
-            "part": "controller",
-            "number": 310
-          },
-          {
-            "part": "display device",
-            "number": 312
-          },
-          {
-            "part": "electropherogram",
-            "number": 314
-          },
-          {
-            "part": "source buffer",
-            "number": 316
-          },
-          {
-            "part": "fluorescently labeled sample",
-            "number": 318
-          },
-          {
-            "part": "capilary",
-            "number": 320
-          },
-          {
-            "part": "optical sensor",
-            "number": 322
-          },
-          {
-            "part": "destination buffer",
-            "number": 324
-          },
-          {
-            "part": "power supply",
-            "number": 326
-          },
-          {
-            "part": "anode",
-            "number": 328
-          },
-          {
-            "part": "cathode",
-            "number": 330
-          }
-        ]
+        "name": "capillary",
+        "number": 104
       },
       {
-        "figure": "Fig. 4",
-        "briefDescription": "<p><b>Fig. 4</b> illustrates a CE process 400 in accordance with one embodiment.</p>",
-        "parts": [
-          {
-            "part": "CE process",
-            "number": 400
-          },
-          {
-            "part": "buffers",
-            "number": 402
-          },
-          {
-            "part": "capilary",
-            "number": 404
-          },
-          {
-            "part": "power supply",
-            "number": 406
-          },
-          {
-            "part": "controller",
-            "number": 408
-          },
-          {
-            "part": "optical sensor",
-            "number": 410
-          },
-          {
-            "part": "computing device",
-            "number": 412
-          },
-          {
-            "part": "display device",
-            "number": 414
-          },
-          {
-            "part": "configuration control",
-            "number": 416
-          },
-          {
-            "part": "operation control",
-            "number": 418
-          },
-          {
-            "part": "voltage",
-            "number": 420
-          },
-          {
-            "part": "fluorescently&#xA0;labled sample",
-            "number": 422
-          },
-          {
-            "part": "<span data-role=\"tag\" data-value=\"d3c9a6c8-1624-13a4-3e85-8467990a0fbe\" id=\"idc6d4c351-2ad1-60ae-801e-6daff086835c\" data-type=\"term\">image signal</span>",
-            "number": 424
-          },
-          {
-            "part": "display control",
-            "number": 426
-          }
-        ]
+        "name": "detector",
+        "number": 106
       },
       {
-        "figure": "Fig. 5",
-        "briefDescription": "<p><b>Fig. 5</b> illustrates a CE process 500 in accordance with one embodiment.</p>",
-        "parts": [
-          {
-            "part": "CE process",
-            "number": 500
-          },
-          {
-            "part": "block",
-            "number": 502
-          },
-          {
-            "part": "block",
-            "number": 504
-          },
-          {
-            "part": "block",
-            "number": 506
-          },
-          {
-            "part": "block",
-            "number": 508
-          },
-          {
-            "part": "block",
-            "number": 510
-          },
-          {
-            "part": "block",
-            "number": 512
-          },
-          {
-            "part": "block",
-            "number": 514
-          }
-        ]
+        "name": "sample injection port",
+        "number": 108
       },
       {
-        "figure": "Fig. 6",
-        "briefDescription": "<p><b>Fig. 6</b> illustrates a sequencing data 600 in accordance with one embodiment.</p>",
-        "parts": [
-          {
-            "part": "sequencing data",
-            "number": 600
-          },
-          {
-            "part": "Sanger sequencing data",
-            "number": 602
-          },
-          {
-            "part": "peaks",
-            "number": 604
-          },
-          {
-            "part": "detected variant",
-            "number": 606
-          },
-          {
-            "part": "data maninpulation",
-            "number": 608
-          },
-          {
-            "part": "adjusted data",
-            "number": 610
-          }
-        ]
+        "name": "heater",
+        "number": 110
+      },
+      {
+        "name": "separation media",
+        "number": 112
+      },
+      {
+        "name": "body",
+        "number": 114
+      },
+      {
+        "name": "CE device",
+        "number": 200
+      },
+      {
+        "name": "voltage bias source",
+        "number": 202
+      },
+      {
+        "name": "capillary",
+        "number": 204
+      },
+      {
+        "name": "detector",
+        "number": 206
+      },
+      {
+        "name": "sample injection port",
+        "number": 208
+      },
+      {
+        "name": "heater",
+        "number": 210
+      },
+      {
+        "name": "separation media",
+        "number": 212
+      },
+      {
+        "name": "body",
+        "number": 214
+      },
+      {
+        "name": "instrument",
+        "number": 216
+      },
+      {
+        "name": "CE system",
+        "number": 300
+      },
+      {
+        "name": "computing device",
+        "number": 302
+      },
+      {
+        "name": "basecaller algorithm",
+        "number": 304
+      },
+      {
+        "name": "memory",
+        "number": 306
+      },
+      {
+        "name": "processor",
+        "number": 308
+      },
+      {
+        "name": "controller",
+        "number": 310
+      },
+      {
+        "name": "display device",
+        "number": 312
+      },
+      {
+        "name": "electropherogram",
+        "number": 314
+      },
+      {
+        "name": "source buffer",
+        "number": 316
+      },
+      {
+        "name": "fluorescently labeled sample",
+        "number": 318
+      },
+      {
+        "name": "capilary",
+        "number": 320
+      },
+      {
+        "name": "optical sensor",
+        "number": 322
+      },
+      {
+        "name": "destination buffer",
+        "number": 324
+      },
+      {
+        "name": "power supply",
+        "number": 326
+      },
+      {
+        "name": "anode",
+        "number": 328
+      },
+      {
+        "name": "cathode",
+        "number": 330
+      },
+      {
+        "name": "CE process",
+        "number": 400
+      },
+      {
+        "name": "buffers",
+        "number": 402
+      },
+      {
+        "name": "capilary",
+        "number": 404
+      },
+      {
+        "name": "power supply",
+        "number": 406
+      },
+      {
+        "name": "controller",
+        "number": 408
+      },
+      {
+        "name": "optical sensor",
+        "number": 410
+      },
+      {
+        "name": "computing device",
+        "number": 412
+      },
+      {
+        "name": "display device",
+        "number": 414
+      },
+      {
+        "name": "configuration control",
+        "number": 416
+      },
+      {
+        "name": "operation control",
+        "number": 418
+      },
+      {
+        "name": "voltage",
+        "number": 420
+      },
+      {
+        "name": "fluorescently labled sample",
+        "number": 422
+      },
+      {
+        "name": "image signal",
+        "number": 424
+      },
+      {
+        "name": "display control",
+        "number": 426
+      },
+      {
+        "name": "CE process",
+        "number": 500
+      },
+      {
+        "name": "block",
+        "number": 502
+      },
+      {
+        "name": "block",
+        "number": 504
+      },
+      {
+        "name": "block",
+        "number": 506
+      },
+      {
+        "name": "block",
+        "number": 508
+      },
+      {
+        "name": "block",
+        "number": 510
+      },
+      {
+        "name": "block",
+        "number": 512
+      },
+      {
+        "name": "block",
+        "number": 514
+      },
+      {
+        "name": "sequencing data",
+        "number": 600
+      },
+      {
+        "name": "Sanger sequencing data",
+        "number": 602
+      },
+      {
+        "name": "peaks",
+        "number": 604
+      },
+      {
+        "name": "detected variant",
+        "number": 606
+      },
+      {
+        "name": "data maninpulation",
+        "number": 608
+      },
+      {
+        "name": "adjusted data",
+        "number": 610
       }
+    ],
+    "terms": [
+      "width curve",
+      "quality values",
+      "5' end",
+      "plasmid",
+      "polymerase",
+      "image signal",
+      "mixed base",
+      "single nucleotide polymorphism",
+      "sample data",
+      "polymerase slippage",
+      "spacing curve",
+      "variant",
+      "heterozygous insertion deletion variant",
+      "average peak width",
+      "amplicon",
+      "3' end",
+      "Sanger Sequencer",
+      "mobility shift",
+      "base spacing",
+      "base pair",
+      "pure base",
+      "primer",
+      "average peak",
+      "noise",
+      "basecall",
+      "relative fluoresce unit",
+      "n-1 peak",
+      "raw data",
+      "capillary electrophoresis genetic analyzer"
     ],
     "glossary": [
       {
@@ -399,37 +401,6 @@
         "term": "raw data",
         "definition": "a multicolor graph displaying the fluorescence intensity (signal) collected for each of the four fluorescent dyes."
       }
-    ],
-    "terms": [
-      "width curve",
-      "quality values",
-      "5' end",
-      "plasmid",
-      "polymerase",
-      "image signal",
-      "mixed base",
-      "single nucleotide polymorphism",
-      "sample data",
-      "polymerase slippage",
-      "spacing curve",
-      "variant",
-      "heterozygous insertion deletion variant",
-      "average peak width",
-      "amplicon",
-      "3' end",
-      "Sanger Sequencer",
-      "mobility shift",
-      "base spacing",
-      "base pair",
-      "pure base",
-      "primer",
-      "average peak",
-      "noise",
-      "basecall",
-      "relative fluoresce unit",
-      "n-1 peak",
-      "raw data",
-      "capillary electrophoresis genetic analyzer"
     ]
   },
   "repository": "https://github.com/TurboPatent/Electrophoresis"
